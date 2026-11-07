@@ -1,7 +1,7 @@
 # Stratagem Studio
 
-[![Tests](https://github.com/zenkaro1/hd2-stratagem-studio/actions/workflows/tests.yml/badge.svg)](https://github.com/zenkaro1/hd2-stratagem-studio/actions/workflows/tests.yml)
-[![Release](https://github.com/zenkaro1/hd2-stratagem-studio/actions/workflows/release.yml/badge.svg)](https://github.com/zenkaro1/hd2-stratagem-studio/actions/workflows/release.yml)
+[![Tests](https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/actions/workflows/tests.yml/badge.svg)](https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/actions/workflows/tests.yml)
+[![Release](https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/actions/workflows/release.yml/badge.svg)](https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![Logo](docs/logo-lockup.png)
@@ -14,7 +14,7 @@ so wie du sie auch selbst tippen würdest.
 
 ## Download
 
-Fertige Windows-Version (kein Python nötig): **[Releases](https://github.com/zenkaro1/hd2-stratagem-studio/releases)**
+Fertige Windows-Version (kein Python nötig): **[Releases](https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/releases)**
 → `StratagemStudio-Setup.zip` herunterladen, entpacken, `Installieren.cmd` doppelklicken.
 Die ZIP enthält die App inkl. Sprachmodellen; Einstellungen liegen danach in
 `%LOCALAPPDATA%\Programs\StratagemStudio\userdata`.

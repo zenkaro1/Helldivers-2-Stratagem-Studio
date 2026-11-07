@@ -40,6 +40,6 @@ if errorlevel 1 (
 
 echo.
 echo Fertig. GitHub Actions baut jetzt die Setup-ZIP und legt das Release an:
-echo    https://github.com/zenkaro1/hd2-stratagem-studio/releases
+echo    https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio/releases
 echo.
 pause

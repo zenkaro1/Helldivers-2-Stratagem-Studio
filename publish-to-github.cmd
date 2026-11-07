@@ -25,9 +25,9 @@ if errorlevel 1 (
 )
 
 set "REPO=%~1"
-if "%REPO%"=="" set "REPO=https://github.com/zenkaro1/hd2-stratagem-studio.git"
+if "%REPO%"=="" set "REPO=https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio.git"
 if "%~1"=="" set /p "REPO=Repository-URL [Enter fuer %REPO%]: "
-if "%REPO%"=="" set "REPO=https://github.com/zenkaro1/hd2-stratagem-studio.git"
+if "%REPO%"=="" set "REPO=https://github.com/zenkaro1/Helldivers-2-Stratagem-Studio.git"
 
 if not exist ".git" (
   git init -b main
