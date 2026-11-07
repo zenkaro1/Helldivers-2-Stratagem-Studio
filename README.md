@@ -104,7 +104,7 @@ Es sitzt oben links im App-Kopf und dient als Fenster-, Taskleisten- und Tray-Ic
 Alles ist vorbereitet — du brauchst nur ein leeres Repository und einen Push:
 
 1. Auf [github.com/new](https://github.com/new) ein **leeres** Repo anlegen
-   (ohne README/.gitignore), z. B. `hd2-stratagem-studio`.
+   (ohne README/.gitignore), z. B. `Helldivers-2-Stratagem-Studio`.
 2. `publish-to-github.cmd` doppelklicken, Repository-URL bestätigen.
    Das Skript committet alles, setzt `origin` und pusht nach `main`.
 3. Release bauen: `make-release.cmd` (z. B. `v1.0.0`). Der Tag startet die
