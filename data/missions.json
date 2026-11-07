@@ -1,0 +1,52 @@
+{
+  "missions": [
+    {
+      "id": "none",
+      "name": "Keine Mission",
+      "subtitle": "Standard-Loadout",
+      "stratagems": []
+    },
+    {
+      "id": "erdbau",
+      "name": "Erdbau",
+      "subtitle": "Tiefenbohrung",
+      "stratagems": [
+        "prospecting_drill",
+        "tectonic_drill",
+        "seismic_probe"
+      ]
+    },
+    {
+      "id": "flag",
+      "name": "Flagge hissen",
+      "subtitle": "Super Earth Flagge",
+      "stratagems": [
+        "super_earth_flag"
+      ]
+    },
+    {
+      "id": "sssd",
+      "name": "SSSD-Übergabe",
+      "subtitle": "Datenbergung",
+      "stratagems": [
+        "sssd_delivery"
+      ]
+    },
+    {
+      "id": "hive",
+      "name": "Nestsprengung",
+      "subtitle": "Hive Breaker",
+      "stratagems": [
+        "hive_breaker_drill"
+      ]
+    },
+    {
+      "id": "dark_fluid",
+      "name": "Dunkle Flüssigkeit",
+      "subtitle": "Dark Fluid",
+      "stratagems": [
+        "dark_fluid_vessel"
+      ]
+    }
+  ]
+}

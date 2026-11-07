@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.tmp/
+.pytest_cache/
+data/stratagems_page.html
+*.log
+
+dist/
+build/
+*.spec
+*.zip
+
+userdata/
+Thumbs.db
+.DS_Store

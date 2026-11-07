@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Untitled-2</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon id="Badge" points="747,104.968 982,512 747,919.032 277,919.032 42,512 277,104.968" fill="#12140f" stroke="#3d4231" stroke-width="12" stroke-miterlimit="10"/>
+    <polygon id="Inner_ring" data-name="Inner ring" points="716,158.662 920,512 716,865.338 308,865.338 104,512 308,158.662" fill="none" stroke="#2b2f22" stroke-width="4" stroke-miterlimit="10"/>
+    <polygon id="Chevron_0" data-name="Chevron 0" points="512,184.64 651.5,339.02 562.22,339.02 512,285.08 461.78,339.02 372.5,339.02" fill="#f5d13f"/>
+    <polygon id="Chevron_90" data-name="Chevron 90" points="839.36,512 684.98,651.5 684.98,562.22 738.92,512 684.98,461.78 684.98,372.5" fill="#f5d13f"/>
+    <polygon id="Chevron_180" data-name="Chevron 180" points="512,839.36 372.5,684.98 461.78,684.98 512,738.92 562.22,684.98 651.5,684.98" fill="#f5d13f"/>
+    <polygon id="Chevron_270" data-name="Chevron 270" points="184.64,512 339.02,372.5 339.02,461.78 285.08,512 339.02,562.22 339.02,651.5" fill="#f5d13f"/>
+    <polygon id="Core_diamond" data-name="Core diamond" points="512,354 670,512 512,670 354,512" fill="#f5d13f"/>
+    <polygon id="Core_cutout" data-name="Core cutout" points="512,446 578,512 512,578 446,512" fill="#0b0c08"/>
+  </g>
+</svg>

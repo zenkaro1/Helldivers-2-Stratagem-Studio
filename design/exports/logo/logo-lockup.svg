@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="560" viewBox="0 0 1800 560">
+  <title>Untitled-3</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon id="Badge" points="417.5,76.484 535,280 417.5,483.516 182.5,483.516 65,280 182.5,76.484" fill="#12140f" stroke="#3d4231" stroke-width="6" stroke-miterlimit="10"/>
+    <polygon id="Inner_ring" data-name="Inner ring" points="402,103.331 504,280 402,456.669 198,456.669 96,280 198,103.331" fill="none" stroke="#2b2f22" stroke-width="2" stroke-miterlimit="10"/>
+    <polygon id="Chevron_0" data-name="Chevron 0" points="300,116.32 369.75,193.51 325.11,193.51 300,166.54 274.89,193.51 230.25,193.51" fill="#f5d13f"/>
+    <polygon id="Chevron_90" data-name="Chevron 90" points="463.68,280 386.49,349.75 386.49,305.11 413.46,280 386.49,254.89 386.49,210.25" fill="#f5d13f"/>
+    <polygon id="Chevron_180" data-name="Chevron 180" points="300,443.68 230.25,366.49 274.89,366.49 300,393.46 325.11,366.49 369.75,366.49" fill="#f5d13f"/>
+    <polygon id="Chevron_270" data-name="Chevron 270" points="136.32,280 213.51,210.25 213.51,254.89 186.54,280 213.51,305.11 213.51,349.75" fill="#f5d13f"/>
+    <polygon id="Core_diamond" data-name="Core diamond" points="300,201 379,280 300,359 221,280" fill="#f5d13f"/>
+    <polygon id="Core_cutout" data-name="Core cutout" points="300,247 333,280 300,313 267,280" fill="#0b0c08"/>
+    <text transform="matrix(1 0 0 1 600 300)" x="0" y="0" xml:space="preserve" font-family="Bahnschrift, sans-serif" font-size="110" font-weight="bold" fill="#eae8dd" letter-spacing="6.6"><tspan x="0" y="0">STRATAGEM STUDIO</tspan></text>
+    <text transform="matrix(1 0 0 1 604 372)" x="0" y="0" xml:space="preserve" font-family="Bahnschrift, sans-serif" font-size="28" font-weight="600" fill="#8f9484" letter-spacing="6.72"><tspan x="0" y="0">HELLDIVERS 2  ·  TAKTIK-WERKZEUG</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhängigkeiten installieren
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt pyinstaller
+
+      - name: EXE bauen
+        shell: pwsh
+        run: |
+          python -m PyInstaller --noconfirm --clean --windowed --onedir `
+            --name "StratagemStudio" `
+            --icon "app\assets\logo.ico" `
+            --add-data "data;data" `
+            --add-data "app\assets;app/assets" `
+            --hidden-import "PySide6.QtSvg" `
+            --hidden-import "requests" `
+            --collect-all "faster_whisper" `
+            --collect-all "ctranslate2" `
+            --collect-all "tokenizers" `
+            --collect-all "av" `
+            --collect-all "onnxruntime" `
+            --collect-all "sounddevice" `
+            --collect-all "huggingface_hub" `
+            launcher.py
+
+      - name: Setup-Ordner packen
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force package | Out-Null
+          Copy-Item packaging\* package\ -Recurse
+          Copy-Item dist\StratagemStudio package\StratagemStudio -Recurse
+          Compress-Archive -Path package\* -DestinationPath StratagemStudio-Setup.zip -CompressionLevel Optimal
+
+      - name: Release veröffentlichen
+        uses: softprops/action-gh-release@v2
+        with:
+          files: StratagemStudio-Setup.zip
+          generate_release_notes: true

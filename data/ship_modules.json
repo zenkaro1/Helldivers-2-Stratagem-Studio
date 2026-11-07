@@ -1,0 +1,86 @@
+{
+  "note": "Nur Module mit Einfluss auf Cooldown/Nutzungen. Werte laut Helldivers-Wiki, Reduktionen werden multiplikativ verrechnet.",
+  "modules": [
+    {
+      "id": "streamlined_request_process",
+      "name": "Streamlined Request Process",
+      "section": "Patriotic Administration Center",
+      "effect": "cooldown",
+      "value": 10,
+      "targets": ["support"],
+      "note": "Support-Waffen −10 % Cooldown"
+    },
+    {
+      "id": "hand_carts",
+      "name": "Hand Carts",
+      "section": "Patriotic Administration Center",
+      "effect": "cooldown",
+      "value": 10,
+      "targets": ["backpack", "vehicle"],
+      "note": "Rucksäcke & Fahrzeuge −10 % Cooldown"
+    },
+    {
+      "id": "zero_g_breech_loading",
+      "name": "Zero-G Breech Loading",
+      "section": "Orbital Cannons",
+      "effect": "cooldown",
+      "value": 10,
+      "targets": ["orbital"],
+      "note": "Orbital −10 % Cooldown"
+    },
+    {
+      "id": "liquid_ventilated_cockpit",
+      "name": "Liquid-Ventilated Cockpit",
+      "section": "Hangar",
+      "effect": "cooldown",
+      "value": 50,
+      "targets": ["eagle"],
+      "note": "Eagle −50 % Cooldown (Rearm)"
+    },
+    {
+      "id": "pit_crew_hazard_pay",
+      "name": "Pit Crew Hazard Pay",
+      "section": "Hangar",
+      "effect": "cooldown",
+      "value": 20,
+      "targets": ["eagle"],
+      "note": "Eagle-Rearm −20 %"
+    },
+    {
+      "id": "advanced_crew_training",
+      "name": "Advanced Crew Training",
+      "section": "Hangar",
+      "effect": "cooldown",
+      "value": 10,
+      "targets": ["eagle"],
+      "note": "Eagle-Rearm −10 %, wenn noch Nutzungen übrig sind"
+    },
+    {
+      "id": "expanded_weapons_bay",
+      "name": "Expanded Weapons Bay",
+      "section": "Hangar",
+      "effect": "eagle_uses",
+      "value": 1,
+      "targets": ["eagle"],
+      "note": "+1 Eagle-Nutzung pro Rearm"
+    },
+    {
+      "id": "morale_augmentation",
+      "name": "Morale Augmentation",
+      "section": "Bridge",
+      "effect": "cooldown",
+      "value": 5,
+      "targets": ["all"],
+      "note": "alle Stratagems −5 % Cooldown"
+    },
+    {
+      "id": "synthetic_supplementation",
+      "name": "Synthetic Supplementation",
+      "section": "Engineering Bay",
+      "effect": "cooldown",
+      "value": 10,
+      "targets": ["sentry", "emplacement", "resupply"],
+      "note": "Geschütze, Stellungen, Resupply −10 % Cooldown"
+    }
+  ]
+}

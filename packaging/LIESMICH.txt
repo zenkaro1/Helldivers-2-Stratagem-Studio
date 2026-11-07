@@ -1,0 +1,37 @@
+STRATAGEM STUDIO - Installation
+================================
+
+1. Diesen kompletten Ordner entpacken (Rechtsklick auf die ZIP -> "Alle
+   extrahieren"). Wichtig: alle Dateien muessen zusammenbleiben.
+
+2. "Installieren.cmd" doppelklicken.
+   - Kopiert die App nach %LOCALAPPDATA%\Programs\StratagemStudio
+   - legt eine Verknuepfung auf dem Desktop und im Startmenue an
+   - entfernt die Windows-Downloadsperre
+   - startet die App auf Wunsch
+
+3. Beim ersten Start: Einstellungen pruefen (Hotkeys, Push-to-Talk) und im
+   Spiel testen.
+
+WICHTIG - Windows-Warnung:
+Die App ist nicht digital signiert. Windows SmartScreen kann beim ersten Start
+"Windows hat den Start dieser App verhindert" zeigen:
+  -> "Weitere Informationen" -> "Trotzdem ausfuehren".
+Alternativ: Rechtsklick auf StratagemStudio.exe -> Eigenschaften ->
+"Zulassen" / "Entsperren" ankreuzen.
+
+Wenn Hotkeys im Spiel nicht ankommen:
+  - App als Administrator starten (Rechtsklick -> Als Administrator ausfuehren),
+    falls das Spiel ebenfalls erhoehte Rechte hat.
+  - Im Makros-Screen "HOTKEY TESTEN" nutzen.
+  - Log: %LOCALAPPDATA%\Programs\StratagemStudio\userdata\macro.log
+
+Deinstallieren:
+  "Deinstallieren.cmd" doppelklicken. Entfernt Programm, Verknuepfungen und
+  Einstellungen/Loadouts.
+
+Daten:
+  Einstellungen, Loadouts und das Sprachmodell liegen im Programmordner unter
+  "userdata". Zum Sichern einfach diesen Ordner kopieren.
+
+Viel Spass - und Fuer die Demokratie!

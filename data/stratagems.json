@@ -1,0 +1,2570 @@
+{
+  "version": 1,
+  "source": "https://helldivers.wiki.gg/wiki/Stratagems",
+  "note": "aliases are voice hints (German ones are approximate, not official)",
+  "count": 117,
+  "stratagems": [
+    {
+      "id": "orbital_120mm_he_barrage",
+      "name": "Orbital 120mm HE Barrage",
+      "category": "orbital",
+      "code": "RRDLRD",
+      "cooldown": 180,
+      "unlock_level": 5,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_120mm_he_barrage.svg",
+      "icon_source": "/images/Orbital_120mm_HE_Barrage_Stratagem_Icon_Background.svg?17de59",
+      "aliases": [
+        "120 mm sperrfeuer",
+        "120er sperrfeuer",
+        "orbital 120mm he barrage",
+        "orbital 120mm he sperrfeuer"
+      ],
+      "uses": null,
+      "radius": 30,
+      "ap": 4,
+      "traits": [
+        "Sperrfeuer",
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "orbital_380mm_he_barrage",
+      "name": "Orbital 380mm HE Barrage",
+      "category": "orbital",
+      "code": "RDUULDD",
+      "cooldown": 240,
+      "unlock_level": 8,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_380mm_he_barrage.svg",
+      "icon_source": "/images/Orbital_380mm_HE_Barrage_Stratagem_Icon_Background.svg?eb3f95",
+      "aliases": [
+        "380 mm sperrfeuer",
+        "380er sperrfeuer",
+        "dreihundertachtzig",
+        "orbital 380mm he barrage",
+        "orbital 380mm he sperrfeuer"
+      ],
+      "uses": null,
+      "radius": 60,
+      "ap": 5,
+      "traits": [
+        "Sperrfeuer",
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "orbital_airburst_strike",
+      "name": "Orbital Airburst Strike",
+      "category": "orbital",
+      "code": "RRR",
+      "cooldown": 90,
+      "unlock_level": 5,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_airburst_strike.svg",
+      "icon_source": "/images/Orbital_Airburst_Strike_Stratagem_Icon_Background.svg?c77894",
+      "aliases": [
+        "luftburst",
+        "orbital airburst strike",
+        "orbital luftburst schlag",
+        "orbitaler luftburst"
+      ],
+      "uses": null,
+      "radius": 18,
+      "ap": 3,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "orbital_confetti",
+      "name": "Orbital Confetti",
+      "category": "orbital",
+      "code": "RDDUUDDUU",
+      "cooldown": 80,
+      "unlock_level": null,
+      "unlock_source": "Liberty Day 2026",
+      "icon": "icons/orbital_confetti.svg",
+      "icon_source": "/images/Orbital_Strike_Stratagem_Fallback_Icon_Background.svg?5bcff4",
+      "aliases": [
+        "orbital confetti"
+      ],
+      "uses": null,
+      "radius": 25,
+      "ap": 2,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "orbital_ems_strike",
+      "name": "Orbital EMS Strike",
+      "category": "orbital",
+      "code": "RRLD",
+      "cooldown": 75,
+      "unlock_level": 5,
+      "unlock_source": "Bridge",
+      "icon": "icons/orbital_ems_strike.svg",
+      "icon_source": "/images/Orbital_EMS_Strike_Stratagem_Icon_Background.svg?5e3ef9",
+      "aliases": [
+        "ems",
+        "ems schlag",
+        "orbital ems schlag",
+        "orbital ems strike"
+      ],
+      "uses": null,
+      "radius": 18,
+      "ap": 0,
+      "traits": [
+        "EMP"
+      ]
+    },
+    {
+      "id": "orbital_gas_strike",
+      "name": "Orbital Gas Strike",
+      "category": "orbital",
+      "code": "RRDR",
+      "cooldown": 75,
+      "unlock_level": 1,
+      "unlock_source": "Bridge",
+      "icon": "icons/orbital_gas_strike.svg",
+      "icon_source": "/images/Orbital_Gas_Strike_Stratagem_Icon_Background.svg?668a1e",
+      "aliases": [
+        "gasschlag",
+        "gassperrfeuer",
+        "orbital gas schlag",
+        "orbital gas strike"
+      ],
+      "uses": null,
+      "radius": 20,
+      "ap": 0,
+      "traits": [
+        "Gas"
+      ]
+    },
+    {
+      "id": "orbital_gatling_barrage",
+      "name": "Orbital Gatling Barrage",
+      "category": "orbital",
+      "code": "RDLUU",
+      "cooldown": 70,
+      "unlock_level": 1,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_gatling_barrage.svg",
+      "icon_source": "/images/Orbital_Gatling_Barrage_Stratagem_Icon_Background.svg?f73d52",
+      "aliases": [
+        "gatling",
+        "gatling sperrfeuer",
+        "orbital gatling barrage",
+        "orbital gatling sperrfeuer"
+      ],
+      "uses": null,
+      "radius": 16,
+      "ap": 3,
+      "traits": [
+        "Sperrfeuer",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "orbital_laser",
+      "name": "Orbital Laser",
+      "category": "orbital",
+      "code": "RDURD",
+      "cooldown": 300,
+      "unlock_level": 15,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_laser.svg",
+      "icon_source": "/images/Orbital_Laser_Stratagem_Icon_Background.svg?ae2ad3",
+      "aliases": [
+        "laser",
+        "orbital laser",
+        "orbitaler laser"
+      ],
+      "uses": 3,
+      "radius": 12,
+      "ap": 6,
+      "traits": [
+        "Laser",
+        "Gelenkt"
+      ]
+    },
+    {
+      "id": "orbital_napalm_barrage",
+      "name": "Orbital Napalm Barrage",
+      "category": "orbital",
+      "code": "RRDLRU",
+      "cooldown": 240,
+      "unlock_level": 18,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_napalm_barrage.svg",
+      "icon_source": "/images/Orbital_Napalm_Barrage_Stratagem_Icon_Background.svg?be78c4",
+      "aliases": [
+        "napalm sperrfeuer",
+        "orbital napalm barrage",
+        "orbital napalm sperrfeuer",
+        "orbitales napalm"
+      ],
+      "uses": null,
+      "radius": 45,
+      "ap": 3,
+      "traits": [
+        "Napalm",
+        "Sperrfeuer"
+      ]
+    },
+    {
+      "id": "orbital_precision_strike",
+      "name": "Orbital Precision Strike",
+      "category": "orbital",
+      "code": "RRU",
+      "cooldown": 80,
+      "unlock_level": 1,
+      "unlock_source": "Bridge",
+      "icon": "icons/orbital_precision_strike.svg",
+      "icon_source": "/images/Orbital_Precision_Strike_Stratagem_Icon_Background.svg?e78550",
+      "aliases": [
+        "orbital precision strike",
+        "orbital präzision schlag",
+        "präzision",
+        "präzisionsschlag"
+      ],
+      "uses": null,
+      "radius": 6,
+      "ap": 6,
+      "traits": [
+        "Explosiv",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "orbital_railcannon_strike",
+      "name": "Orbital Railcannon Strike",
+      "category": "orbital",
+      "code": "RUDDR",
+      "cooldown": 180,
+      "unlock_level": 20,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_railcannon_strike.svg",
+      "icon_source": "/images/Orbital_Railcannon_Strike_Stratagem_Icon_Background.svg?ee9232",
+      "aliases": [
+        "orbital railcannon strike",
+        "orbital railgun schlag",
+        "orbitaler railgun schlag",
+        "railcannon"
+      ],
+      "uses": null,
+      "radius": 5,
+      "ap": 8,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "orbital_smoke_strike",
+      "name": "Orbital Smoke Strike",
+      "category": "orbital",
+      "code": "RRDU",
+      "cooldown": 75,
+      "unlock_level": 8,
+      "unlock_source": "Bridge",
+      "icon": "icons/orbital_smoke_strike.svg",
+      "icon_source": "/images/Orbital_Smoke_Strike_Stratagem_Icon_Background.svg?a05463",
+      "aliases": [
+        "orbital rauch schlag",
+        "orbital smoke strike",
+        "orbitaler rauch",
+        "rauchschlag"
+      ],
+      "uses": null,
+      "radius": 18,
+      "ap": 0,
+      "traits": [
+        "Rauch"
+      ]
+    },
+    {
+      "id": "orbital_walking_barrage",
+      "name": "Orbital Walking Barrage",
+      "category": "orbital",
+      "code": "RDRDRD",
+      "cooldown": 240,
+      "unlock_level": 10,
+      "unlock_source": "Orbital Cannons",
+      "icon": "icons/orbital_walking_barrage.svg",
+      "icon_source": "/images/Orbital_Walking_Barrage_Stratagem_Icon_Background.svg?cb3bf0",
+      "aliases": [
+        "laufendes sperrfeuer",
+        "orbital laufend sperrfeuer",
+        "orbital walking barrage",
+        "wanderndes sperrfeuer"
+      ],
+      "uses": null,
+      "radius": 40,
+      "ap": 5,
+      "traits": [
+        "Sperrfeuer",
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "eagle_110mm_rocket_pods",
+      "name": "Eagle 110mm Rocket Pods",
+      "category": "eagle",
+      "code": "URUL",
+      "cooldown": 15,
+      "unlock_level": 10,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_110mm_rocket_pods.svg",
+      "icon_source": "/images/Eagle_110mm_Rocket_Pods_Stratagem_Icon_Background.svg?2e218a",
+      "aliases": [
+        "110er raketen",
+        "adler 110mm rakete raketen",
+        "adler raketen",
+        "eagle 110mm rocket pods",
+        "raketenpod"
+      ],
+      "uses": 2,
+      "radius": 18,
+      "ap": 5,
+      "traits": [
+        "Gelenkt"
+      ]
+    },
+    {
+      "id": "eagle_500kg_bomb",
+      "name": "Eagle 500kg Bomb",
+      "category": "eagle",
+      "code": "URDDD",
+      "cooldown": 15,
+      "unlock_level": 15,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_500kg_bomb.svg",
+      "icon_source": "/images/Eagle_500kg_Bomb_Stratagem_Icon_Background.svg?48a0f3",
+      "aliases": [
+        "500 kg bombe",
+        "500er bombe",
+        "adler 500 kg bombe",
+        "adler 500kg bombe",
+        "eagle 500kg bomb",
+        "fünfhundert kilo bombe"
+      ],
+      "uses": 1,
+      "radius": 30,
+      "ap": 7,
+      "traits": [
+        "Explosiv",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "eagle_airstrike",
+      "name": "Eagle Airstrike",
+      "category": "eagle",
+      "code": "URDR",
+      "cooldown": 15,
+      "unlock_level": 1,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_airstrike.svg",
+      "icon_source": "/images/Eagle_Airstrike_Stratagem_Icon_Background.svg?b497fe",
+      "aliases": [
+        "adler luftschlag",
+        "eagle airstrike",
+        "luftschlag"
+      ],
+      "uses": 3,
+      "radius": 24,
+      "ap": 5,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "eagle_cluster_bomb",
+      "name": "Eagle Cluster Bomb",
+      "category": "eagle",
+      "code": "URDDR",
+      "cooldown": 15,
+      "unlock_level": 3,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_cluster_bomb.svg",
+      "icon_source": "/images/Eagle_Cluster_Bomb_Stratagem_Icon_Background.svg?b730d4",
+      "aliases": [
+        "adler streu bombe",
+        "adler streubombe",
+        "eagle cluster bomb",
+        "streubombe"
+      ],
+      "uses": 2,
+      "radius": 32,
+      "ap": 3,
+      "traits": [
+        "Streumunition"
+      ]
+    },
+    {
+      "id": "eagle_fly_by",
+      "name": "Eagle Fly By",
+      "category": "eagle",
+      "code": "UDDUUDDUU",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "Liberty Day 2026",
+      "icon": "icons/eagle_fly_by.svg",
+      "icon_source": "/images/Eagle_Stratagem_Fallback_Icon_Background.svg?906dd7",
+      "aliases": [
+        "adler fly by",
+        "eagle fly by"
+      ],
+      "uses": null,
+      "radius": 14,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "eagle_gas_airstrike",
+      "name": "Eagle Gas Airstrike",
+      "category": "eagle",
+      "code": "URLR",
+      "cooldown": 15,
+      "unlock_level": null,
+      "unlock_source": "Counterdissident Hammer",
+      "icon": "icons/eagle_gas_airstrike.svg",
+      "icon_source": "/images/Eagle_Gas_Airstrike_Stratagem_Icon_Background.svg?e47dc1",
+      "aliases": [
+        "adler gas luftschlag",
+        "eagle gas airstrike"
+      ],
+      "uses": null,
+      "radius": 26,
+      "ap": 0,
+      "traits": [
+        "Gas"
+      ]
+    },
+    {
+      "id": "eagle_napalm_airstrike",
+      "name": "Eagle Napalm Airstrike",
+      "category": "eagle",
+      "code": "URDU",
+      "cooldown": 15,
+      "unlock_level": 5,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_napalm_airstrike.svg",
+      "icon_source": "/images/Eagle_Napalm_Airstrike_Stratagem_Icon_Background.svg?735c8b",
+      "aliases": [
+        "adler napalm luftschlag",
+        "eagle napalm airstrike",
+        "napalm luftschlag"
+      ],
+      "uses": 2,
+      "radius": 28,
+      "ap": 3,
+      "traits": [
+        "Napalm"
+      ]
+    },
+    {
+      "id": "eagle_smoke_strike",
+      "name": "Eagle Smoke Strike",
+      "category": "eagle",
+      "code": "URUD",
+      "cooldown": 15,
+      "unlock_level": 8,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_smoke_strike.svg",
+      "icon_source": "/images/Eagle_Smoke_Strike_Stratagem_Icon_Background.svg?159f1f",
+      "aliases": [
+        "adler rauch schlag",
+        "adler rauchschlag",
+        "eagle smoke strike",
+        "rauchschlag"
+      ],
+      "uses": 3,
+      "radius": 24,
+      "ap": 0,
+      "traits": [
+        "Rauch"
+      ]
+    },
+    {
+      "id": "eagle_strafing_run",
+      "name": "Eagle Strafing Run",
+      "category": "eagle",
+      "code": "URR",
+      "cooldown": 15,
+      "unlock_level": 1,
+      "unlock_source": "Hangar",
+      "icon": "icons/eagle_strafing_run.svg",
+      "icon_source": "/images/Eagle_Strafing_Run_Stratagem_Icon_Background.svg?fe286e",
+      "aliases": [
+        "adler bordwaffenangriff",
+        "adler strafing angriff",
+        "bordwaffenangriff",
+        "eagle strafing run"
+      ],
+      "uses": 3,
+      "radius": 10,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "40_k_meltagun",
+      "name": "40-K Meltagun",
+      "category": "support",
+      "code": "DLULLD",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Castellan’s Creed P3",
+      "icon": "icons/40_k_meltagun.svg",
+      "icon_source": "/images/Meltagun_Stratagem_Icon_Background.svg?c412fb",
+      "aliases": [
+        "40-k meltagun"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Feuer",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "ac_8_autocannon",
+      "name": "AC-8 Autocannon",
+      "category": "support",
+      "code": "DLDUUR",
+      "cooldown": 480,
+      "unlock_level": 10,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/ac_8_autocannon.svg",
+      "icon_source": "/images/Autocannon_Stratagem_Icon_Background.svg?556cf5",
+      "aliases": [
+        "ac-8 autocannon",
+        "ac-8 autokanone",
+        "autocannon",
+        "autokanone"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "amw_20_apex",
+      "name": "AMW-20 Apex",
+      "category": "support",
+      "code": "DLLUDL",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Scope of AuthorityP2",
+      "icon": "icons/amw_20_apex.svg",
+      "icon_source": "/images/Apex_Stratagem_Icon_Background.svg?ff81dc",
+      "aliases": [
+        "amw-20 apex",
+        "apex"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "apw_1_anti_materiel_rifle",
+      "name": "APW-1 Anti-Materiel Rifle",
+      "category": "support",
+      "code": "DLRUD",
+      "cooldown": 480,
+      "unlock_level": 1,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/apw_1_anti_materiel_rifle.svg",
+      "icon_source": "/images/Anti-Materiel_Rifle_Stratagem_Icon_Background.svg?37652d",
+      "aliases": [
+        "anti-materiel rifle",
+        "apw-1 anti-materiel gewehr",
+        "apw-1 anti-materiel rifle"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "arc_3_arc_thrower",
+      "name": "ARC-3 Arc Thrower",
+      "category": "support",
+      "code": "DRDULL",
+      "cooldown": 480,
+      "unlock_level": 15,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/arc_3_arc_thrower.svg",
+      "icon_source": "/images/Arc_Thrower_Stratagem_Icon_Background.svg?5909af",
+      "aliases": [
+        "arc thrower",
+        "arc werfer",
+        "arc-3 arc thrower",
+        "blitzwerfer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Elektro"
+      ]
+    },
+    {
+      "id": "cqc_1_one_true_flag",
+      "name": "CQC-1 One True Flag",
+      "category": "support",
+      "code": "DLRRU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Masters of Ceremony P3",
+      "icon": "icons/cqc_1_one_true_flag.svg",
+      "icon_source": "/images/One_True_Flag_Stratagem_Icon_Background.svg?e919be",
+      "aliases": [
+        "cqc-1 eine wahre flagge",
+        "cqc-1 one true flag",
+        "one true flag"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Nahkampf"
+      ]
+    },
+    {
+      "id": "cqc_20_breaching_hammer",
+      "name": "CQC-20 Breaching Hammer",
+      "category": "support",
+      "code": "DLRLU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Siege Breakers P1",
+      "icon": "icons/cqc_20_breaching_hammer.svg",
+      "icon_source": "/images/Breaching_Hammer_Stratagem_Icon_Background.svg?65dd9b",
+      "aliases": [
+        "breaching hammer",
+        "cqc-20 breaching hammer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Nahkampf"
+      ]
+    },
+    {
+      "id": "cqc_9_defoliation_tool",
+      "name": "CQC-9 Defoliation Tool",
+      "category": "support",
+      "code": "DLRRD",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Python Commandos P2",
+      "icon": "icons/cqc_9_defoliation_tool.svg",
+      "icon_source": "/images/Defoliation_Tool_Stratagem_Icon_Background.svg?418556",
+      "aliases": [
+        "cqc-9 defoliation tool",
+        "cqc-9 entlaubung tool",
+        "defoliation tool"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Nahkampf",
+        "Feuer"
+      ]
+    },
+    {
+      "id": "eat_17_expendable_anti_tank",
+      "name": "EAT-17 Expendable Anti-Tank",
+      "category": "support",
+      "code": "DDLUR",
+      "cooldown": 70,
+      "unlock_level": 3,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/eat_17_expendable_anti_tank.svg",
+      "icon_source": "/images/Expendable_Anti-Tank_Stratagem_Icon_Background.svg?d52ad8",
+      "aliases": [
+        "eat",
+        "eat-17 einweg anti-tank",
+        "eat-17 expendable anti-tank",
+        "einweg panzerabwehr",
+        "expendable anti-tank",
+        "panzerfaust"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend",
+        "Einweg"
+      ]
+    },
+    {
+      "id": "eat_411_leveller",
+      "name": "EAT-411 Leveller",
+      "category": "support",
+      "code": "DDLUD",
+      "cooldown": 140,
+      "unlock_level": null,
+      "unlock_source": "Siege Breakers P2",
+      "icon": "icons/eat_411_leveller.svg",
+      "icon_source": "/images/Leveller_Stratagem_Icon_Background.svg?8f0c64",
+      "aliases": [
+        "eat-411 leveller",
+        "eat-411 nivellierer",
+        "leveller"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend",
+        "Einweg"
+      ]
+    },
+    {
+      "id": "eat_700_expendable_napalm",
+      "name": "EAT-700 Expendable Napalm",
+      "category": "support",
+      "code": "DDLUL",
+      "cooldown": 140,
+      "unlock_level": null,
+      "unlock_source": "Dust Devils P2",
+      "icon": "icons/eat_700_expendable_napalm.svg",
+      "icon_source": "/images/Expendable_Napalm_Stratagem_Icon_Background.svg?117778",
+      "aliases": [
+        "eat-700 einweg napalm",
+        "eat-700 expendable napalm",
+        "expendable napalm"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Napalm",
+        "Einweg"
+      ]
+    },
+    {
+      "id": "faf_14_spear",
+      "name": "FAF-14 Spear",
+      "category": "support",
+      "code": "DDUDD",
+      "cooldown": 480,
+      "unlock_level": 20,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/faf_14_spear.svg",
+      "icon_source": "/images/Spear_Stratagem_Icon_Background.svg?3f7623",
+      "aliases": [
+        "faf-14 spear",
+        "faf-14 speer",
+        "spear",
+        "speer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 8,
+      "traits": [
+        "Gelenkt",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "flam_40_flamethrower",
+      "name": "FLAM-40 Flamethrower",
+      "category": "support",
+      "code": "DLUDU",
+      "cooldown": 480,
+      "unlock_level": 10,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/flam_40_flamethrower.svg",
+      "icon_source": "/images/Flamethrower_Stratagem_Icon_Background.svg?648ed8",
+      "aliases": [
+        "flam-40 flamethrower",
+        "flam-40 flammenwerfer",
+        "flamethrower",
+        "flammenwerfer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Feuer"
+      ]
+    },
+    {
+      "id": "gl_21_grenade_launcher",
+      "name": "GL-21 Grenade Launcher",
+      "category": "support",
+      "code": "DLULD",
+      "cooldown": 480,
+      "unlock_level": 5,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/gl_21_grenade_launcher.svg",
+      "icon_source": "/images/Grenade_Launcher_Stratagem_Icon_Background.svg?168a60",
+      "aliases": [
+        "gl-21 granat werfer",
+        "gl-21 grenade launcher",
+        "granatwerfer",
+        "grenade launcher"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "gl_28_belt_fed_grenade_launcher",
+      "name": "GL-28 Belt-Fed Grenade Launcher",
+      "category": "support",
+      "code": "DLULUU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Siege Breakers P3",
+      "icon": "icons/gl_28_belt_fed_grenade_launcher.svg",
+      "icon_source": "/images/Belt-Fed_Grenade_Launcher_Stratagem_Icon_Background.svg?4c99f1",
+      "aliases": [
+        "belt-fed grenade launcher",
+        "gl-28 belt-fed granat werfer",
+        "gl-28 belt-fed grenade launcher"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "gl_52_de_escalator",
+      "name": "GL-52 De-Escalator",
+      "category": "support",
+      "code": "DRULR",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Force of Law P2",
+      "icon": "icons/gl_52_de_escalator.svg",
+      "icon_source": "/images/De-Escalator_Stratagem_Icon_Background.svg?7a9dca",
+      "aliases": [
+        "de-escalator",
+        "gl-52 de-escalator"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "gr_8_recoilless_rifle",
+      "name": "GR-8 Recoilless Rifle",
+      "category": "support",
+      "code": "DLRRL",
+      "cooldown": 480,
+      "unlock_level": 5,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/gr_8_recoilless_rifle.svg",
+      "icon_source": "/images/Recoilless_Rifle_Stratagem_Icon_Background.svg?aaa0b7",
+      "aliases": [
+        "gr-8 recoilless rifle",
+        "gr-8 rückstoßfrei gewehr",
+        "recoilless rifle"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend",
+        "Einzelschuss"
+      ]
+    },
+    {
+      "id": "las_44_nova",
+      "name": "LAS-44 Nova",
+      "category": "support",
+      "code": "DLRDD",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Scope of Authority P3",
+      "icon": "icons/las_44_nova.svg",
+      "icon_source": "/images/Nova_Stratagem_Icon_Background.svg?44e1ea",
+      "aliases": [
+        "las-44 nova",
+        "nova"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Laser"
+      ]
+    },
+    {
+      "id": "las_98_laser_cannon",
+      "name": "LAS-98 Laser Cannon",
+      "category": "support",
+      "code": "DLDUL",
+      "cooldown": 480,
+      "unlock_level": 5,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/las_98_laser_cannon.svg",
+      "icon_source": "/images/Laser_Cannon_Stratagem_Icon_Background.svg?21b5f6",
+      "aliases": [
+        "las-98 laser cannon",
+        "laser cannon",
+        "laserkanone"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Laser"
+      ]
+    },
+    {
+      "id": "las_99_quasar_cannon",
+      "name": "LAS-99 Quasar Cannon",
+      "category": "support",
+      "code": "DDULR",
+      "cooldown": 480,
+      "unlock_level": 18,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/las_99_quasar_cannon.svg",
+      "icon_source": "/images/Quasar_Cannon_Stratagem_Icon_Background.svg?559764",
+      "aliases": [
+        "las-99 quasar cannon",
+        "quasar",
+        "quasar cannon",
+        "quasar kanone"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend",
+        "Laser"
+      ]
+    },
+    {
+      "id": "m_1000_maxigun",
+      "name": "M-1000 Maxigun",
+      "category": "support",
+      "code": "DLRDUU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Python Commandos P3",
+      "icon": "icons/m_1000_maxigun.svg",
+      "icon_source": "/images/Maxigun_Stratagem_Icon_Background.svg?d08884",
+      "aliases": [
+        "m-1000 maxigun",
+        "maxigun"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "mg_206_heavy_machine_gun",
+      "name": "MG-206 Heavy Machine Gun",
+      "category": "support",
+      "code": "DLUDD",
+      "cooldown": 480,
+      "unlock_level": 12,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/mg_206_heavy_machine_gun.svg",
+      "icon_source": "/images/Heavy_Machine_Gun_Stratagem_Icon_Background.svg?7f60eb",
+      "aliases": [
+        "heavy machine gun",
+        "hmg",
+        "mg-206 heavy machine gun",
+        "mg-206 schwer maschinen gewehr",
+        "schweres maschinengewehr"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "mg_43_machine_gun",
+      "name": "MG-43 Machine Gun",
+      "category": "support",
+      "code": "DLDUR",
+      "cooldown": 480,
+      "unlock_level": 1,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/mg_43_machine_gun.svg",
+      "icon_source": "/images/Machine_Gun_Stratagem_Icon_Background.svg?35fc07",
+      "aliases": [
+        "machine gun",
+        "maschinengewehr",
+        "mg 43",
+        "mg-43 machine gun",
+        "mg-43 maschinen gewehr"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "mgx_42_bullet_storm",
+      "name": "MGX-42 Bullet Storm",
+      "category": "support",
+      "code": "DLDRUL",
+      "cooldown": 70,
+      "unlock_level": null,
+      "unlock_source": "Exo Experts P1",
+      "icon": "icons/mgx_42_bullet_storm.svg",
+      "icon_source": "/images/Bullet_Storm_Stratagem_Icon_Background.svg?97328f",
+      "aliases": [
+        "bullet storm",
+        "mgx-42 bullet storm"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "mls_4x_commando",
+      "name": "MLS-4X Commando",
+      "category": "support",
+      "code": "DLUDR",
+      "cooldown": 120,
+      "unlock_level": 15,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/mls_4x_commando.svg",
+      "icon_source": "/images/Commando_Stratagem_Icon_Background.svg?6ea896",
+      "aliases": [
+        "mls-4x commando",
+        "mls-4x kommando"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Gelenkt"
+      ]
+    },
+    {
+      "id": "ms_11_solo_silo",
+      "name": "MS-11 Solo Silo",
+      "category": "support",
+      "code": "DURDD",
+      "cooldown": 180,
+      "unlock_level": null,
+      "unlock_source": "Dust Devils P3",
+      "icon": "icons/ms_11_solo_silo.svg",
+      "icon_source": "/images/Solo_Silo_Stratagem_Icon_Background.svg?69f961",
+      "aliases": [
+        "ms-11 solo silo",
+        "solo silo"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 8,
+      "traits": [
+        "Gelenkt",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "plas_45_epoch",
+      "name": "PLAS-45 Epoch",
+      "category": "support",
+      "code": "DLULR",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Control Group P1",
+      "icon": "icons/plas_45_epoch.svg",
+      "icon_source": "/images/Epoch_Stratagem_Icon_Background.svg?bfe6b1",
+      "aliases": [
+        "epoch",
+        "plas-45 epoch",
+        "plas-45 epoche"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Explosiv",
+        "Laser"
+      ]
+    },
+    {
+      "id": "rl_77_airburst_rocket_launcher",
+      "name": "RL-77 Airburst Rocket Launcher",
+      "category": "support",
+      "code": "DUULR",
+      "cooldown": 480,
+      "unlock_level": 15,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/rl_77_airburst_rocket_launcher.svg",
+      "icon_source": "/images/Airburst_Rocket_Launcher_Stratagem_Icon_Background.svg?6755a7",
+      "aliases": [
+        "airburst rocket launcher",
+        "rl-77 airburst rocket launcher",
+        "rl-77 luftburst rakete werfer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv",
+        "Gelenkt"
+      ]
+    },
+    {
+      "id": "rs_422_railgun",
+      "name": "RS-422 Railgun",
+      "category": "support",
+      "code": "DRDULR",
+      "cooldown": 480,
+      "unlock_level": 20,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/rs_422_railgun.svg",
+      "icon_source": "/images/Railgun_Stratagem_Icon_Background.svg?7030a2",
+      "aliases": [
+        "railgun",
+        "rs-422 railgun"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 8,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "s_11_speargun",
+      "name": "S-11 Speargun",
+      "category": "support",
+      "code": "DRDLUR",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Dust Devils P2",
+      "icon": "icons/s_11_speargun.svg",
+      "icon_source": "/images/Speargun_Stratagem_Icon_Background.svg?2f0be9",
+      "aliases": [
+        "s-11 speargun",
+        "s-11 speerpistole",
+        "speargun"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "sta_x3_w_a_s_p_launcher",
+      "name": "StA-X3 W.A.S.P. Launcher",
+      "category": "support",
+      "code": "DDUDR",
+      "cooldown": 480,
+      "unlock_level": 20,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/sta_x3_w_a_s_p_launcher.svg",
+      "icon_source": "/images/W.A.S.P._Launcher_Stratagem_Icon_Background.svg?a33ba8",
+      "aliases": [
+        "sta-x3 w a s p werfer",
+        "sta-x3 w.a.s.p. launcher"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Gelenkt"
+      ]
+    },
+    {
+      "id": "tx_41_sterilizer",
+      "name": "TX-41 Sterilizer",
+      "category": "support",
+      "code": "DLUDL",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Chemical Agents P2",
+      "icon": "icons/tx_41_sterilizer.svg",
+      "icon_source": "/images/Sterilizer_Stratagem_Icon_Background.svg?a42db7",
+      "aliases": [
+        "sterilizer",
+        "tx-41 sterilisator",
+        "tx-41 sterilizer"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 1,
+      "traits": [
+        "Gas"
+      ]
+    },
+    {
+      "id": "ax_ar_23_guard_dog",
+      "name": "AX/AR-23 Guard Dog",
+      "category": "backpack",
+      "code": "DULURD",
+      "cooldown": 480,
+      "unlock_level": 10,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/ax_ar_23_guard_dog.svg",
+      "icon_source": "/images/Guard_Dog_Stratagem_Icon_Background.svg?eb2b15",
+      "aliases": [
+        "ax/ar-23 guard dog",
+        "ax/ar-23 wach hund",
+        "guard dog",
+        "wachhund"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Drohne",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "ax_arc_3_k_9",
+      "name": "AX/ARC-3 K-9",
+      "category": "backpack",
+      "code": "DULURL",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Force of Law P3",
+      "icon": "icons/ax_arc_3_k_9.svg",
+      "icon_source": "/images/K-9_Stratagem_Icon_Background.svg?3ed7fe",
+      "aliases": [
+        "ax/arc-3 k-9",
+        "k-9"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Drohne",
+        "Elektro"
+      ]
+    },
+    {
+      "id": "ax_flam_75_hot_dog",
+      "name": "AX/FLAM-75 Hot Dog",
+      "category": "backpack",
+      "code": "DULULL",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Python Commandos P1",
+      "icon": "icons/ax_flam_75_hot_dog.svg",
+      "icon_source": "/images/Hot_Dog_Stratagem_Icon_Background.svg?c8e42d",
+      "aliases": [
+        "ax/flam-75 hot dog",
+        "ax/flam-75 hot hund",
+        "hot dog"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Drohne",
+        "Feuer"
+      ]
+    },
+    {
+      "id": "ax_las_5_rover",
+      "name": "AX/LAS-5 Rover",
+      "category": "backpack",
+      "code": "DULURR",
+      "cooldown": 480,
+      "unlock_level": 10,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/ax_las_5_rover.svg",
+      "icon_source": "/images/Rover_Stratagem_Icon_Background.svg?12ad26",
+      "aliases": [
+        "ax/las-5 rover",
+        "rover"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Drohne",
+        "Laser"
+      ]
+    },
+    {
+      "id": "ax_tx_13_dog_breath",
+      "name": "AX/TX-13 Dog Breath",
+      "category": "backpack",
+      "code": "DULURU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Chemical Agents P3",
+      "icon": "icons/ax_tx_13_dog_breath.svg",
+      "icon_source": "/images/Dog_Breath_Stratagem_Icon_Background.svg?b93a24",
+      "aliases": [
+        "ax/tx-13 dog breath",
+        "ax/tx-13 hund breath",
+        "dog breath"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 1,
+      "traits": [
+        "Drohne",
+        "Gas"
+      ]
+    },
+    {
+      "id": "b_1_supply_pack",
+      "name": "B-1 Supply Pack",
+      "category": "backpack",
+      "code": "DLDUUD",
+      "cooldown": 480,
+      "unlock_level": 1,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/b_1_supply_pack.svg",
+      "icon_source": "/images/Supply_Pack_Stratagem_Icon_Background.svg?6f6c53",
+      "aliases": [
+        "b-1 nachschub paket",
+        "b-1 supply pack",
+        "nachschubpaket",
+        "supply pack"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Versorgung"
+      ]
+    },
+    {
+      "id": "b_100_portable_hellbomb",
+      "name": "B-100 Portable Hellbomb",
+      "category": "backpack",
+      "code": "DRUUU",
+      "cooldown": 300,
+      "unlock_level": null,
+      "unlock_source": "Servants of Freedom P3",
+      "icon": "icons/b_100_portable_hellbomb.svg",
+      "icon_source": "/images/Portable_Hellbomb_Stratagem_Icon_Background.svg?e8bd76",
+      "aliases": [
+        "b-100 portable hellbomb",
+        "b-100 portable höllenbombe",
+        "portable hellbomb"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 8,
+      "traits": [
+        "Explosiv",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "b_flam_80_cremator",
+      "name": "B/FLAM-80 Cremator",
+      "category": "backpack",
+      "code": "DDRDUU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Entrenched Division P3",
+      "icon": "icons/b_flam_80_cremator.svg",
+      "icon_source": "/images/Cremator_Stratagem_Icon_Background.svg?ce54a7",
+      "aliases": [
+        "b/flam-80 cremator",
+        "b/flam-80 einäscherer",
+        "cremator"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Feuer"
+      ]
+    },
+    {
+      "id": "b_md_c4_pack",
+      "name": "B/MD C4 Pack",
+      "category": "backpack",
+      "code": "DRUURU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Redacted Regiment P3",
+      "icon": "icons/b_md_c4_pack.svg",
+      "icon_source": "/images/C4_Pack_Stratagem_Icon_Background.svg?bfb8f2",
+      "aliases": [
+        "b/md c4 pack",
+        "b/md c4 paket"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "lift_182_warp_pack",
+      "name": "LIFT-182 Warp Pack",
+      "category": "backpack",
+      "code": "DLRDLR",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Control Group P3",
+      "icon": "icons/lift_182_warp_pack.svg",
+      "icon_source": "/images/Warp_Pack_Stratagem_Icon_Background.svg?b27510",
+      "aliases": [
+        "lift-182 warp pack",
+        "lift-182 warp paket",
+        "warp pack"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Mobilität"
+      ]
+    },
+    {
+      "id": "lift_850_jump_pack",
+      "name": "LIFT-850 Jump Pack",
+      "category": "backpack",
+      "code": "DUUDU",
+      "cooldown": 480,
+      "unlock_level": 8,
+      "unlock_source": "Hangar",
+      "icon": "icons/lift_850_jump_pack.svg",
+      "icon_source": "/images/Jump_Pack_Stratagem_Icon_Background.svg?464278",
+      "aliases": [
+        "jump pack",
+        "lift-850 jump pack",
+        "lift-850 sprung paket",
+        "sprung rucksack",
+        "sprungpaket"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Mobilität"
+      ]
+    },
+    {
+      "id": "lift_860_hover_pack",
+      "name": "LIFT-860 Hover Pack",
+      "category": "backpack",
+      "code": "DUUDLR",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "Borderline Justice P3",
+      "icon": "icons/lift_860_hover_pack.svg",
+      "icon_source": "/images/Hover_Pack_Stratagem_Icon_Background.svg?63fe63",
+      "aliases": [
+        "hover pack",
+        "lift-860 hover pack",
+        "lift-860 schwebe paket"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Mobilität"
+      ]
+    },
+    {
+      "id": "sh_20_ballistic_shield_backpack",
+      "name": "SH-20 Ballistic Shield Backpack",
+      "category": "backpack",
+      "code": "DLDDUL",
+      "cooldown": 240,
+      "unlock_level": 12,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/sh_20_ballistic_shield_backpack.svg",
+      "icon_source": "/images/Ballistic_Shield_Backpack_Stratagem_Icon_Background.svg?6697d4",
+      "aliases": [
+        "ballistic shield backpack",
+        "ballistischer schild",
+        "schildrucksack",
+        "sh-20 ballistic shield backpack",
+        "sh-20 ballistisch schild rucksack"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Schild"
+      ]
+    },
+    {
+      "id": "sh_32_shield_generator_pack",
+      "name": "SH-32 Shield Generator Pack",
+      "category": "backpack",
+      "code": "DULRLR",
+      "cooldown": 480,
+      "unlock_level": 20,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/sh_32_shield_generator_pack.svg",
+      "icon_source": "/images/Shield_Generator_Pack_Stratagem_Icon_Background.svg?2f4980",
+      "aliases": [
+        "schild rucksack",
+        "schildgenerator",
+        "schildpaket",
+        "sh-32 schild generator paket",
+        "sh-32 shield generator pack",
+        "shield generator pack"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Schild"
+      ]
+    },
+    {
+      "id": "sh_51_directional_shield",
+      "name": "SH-51 Directional Shield",
+      "category": "backpack",
+      "code": "DULRUU",
+      "cooldown": 300,
+      "unlock_level": null,
+      "unlock_source": "Urban Legends P1",
+      "icon": "icons/sh_51_directional_shield.svg",
+      "icon_source": "/images/Directional_Shield_Stratagem_Icon_Background.svg?a0bd68",
+      "aliases": [
+        "directional shield",
+        "sh-51 directional shield",
+        "sh-51 gerichtet schild"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Schild"
+      ]
+    },
+    {
+      "id": "exo_45_patriot_exosuit",
+      "name": "EXO-45 Patriot Exosuit",
+      "category": "vehicle",
+      "code": "LDRULDD",
+      "cooldown": 420,
+      "unlock_level": 25,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/exo_45_patriot_exosuit.svg",
+      "icon_source": "/images/Patriot_Exosuit_Stratagem_Icon_Background.svg?3fa7de",
+      "aliases": [
+        "exo-45 patriot exoanzug",
+        "exo-45 patriot exosuit",
+        "exoanzug",
+        "mech",
+        "patriot exoanzug",
+        "patriot exosuit"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Fahrzeug",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "exo_49_emancipator_exosuit",
+      "name": "EXO-49 Emancipator Exosuit",
+      "category": "vehicle",
+      "code": "LDRULDU",
+      "cooldown": 420,
+      "unlock_level": 25,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/exo_49_emancipator_exosuit.svg",
+      "icon_source": "/images/Emancipator_Exosuit_Stratagem_Icon_Background.svg?336419",
+      "aliases": [
+        "emancipator exosuit",
+        "emanzipator exoanzug",
+        "exo-49 emancipator exosuit",
+        "exo-49 emanzipator exoanzug"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Fahrzeug",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "exo_51_lumberer_exosuit",
+      "name": "EXO-51 Lumberer Exosuit",
+      "category": "vehicle",
+      "code": "LDRURLU",
+      "cooldown": 420,
+      "unlock_level": null,
+      "unlock_source": "Exo Experts P2",
+      "icon": "icons/exo_51_lumberer_exosuit.svg",
+      "icon_source": "/images/Lumberer_Exosuit_Stratagem_Icon_Background.svg?c3895f",
+      "aliases": [
+        "exo-51 holzfäller exoanzug",
+        "exo-51 lumberer exosuit",
+        "lumberer exosuit"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Fahrzeug",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "exo_55_breakthrough_exosuit",
+      "name": "EXO-55 Breakthrough Exosuit",
+      "category": "vehicle",
+      "code": "LDRLRDU",
+      "cooldown": 420,
+      "unlock_level": null,
+      "unlock_source": "Exo Experts P3",
+      "icon": "icons/exo_55_breakthrough_exosuit.svg",
+      "icon_source": "/images/Breakthrough_Exosuit_Stratagem_Icon_Background.svg?d9bc7c",
+      "aliases": [
+        "breakthrough exosuit",
+        "exo-55 breakthrough exosuit",
+        "exo-55 durchbruch exoanzug"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Fahrzeug",
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "m_102_gunner_frv",
+      "name": "M-102 Gunner FRV",
+      "category": "vehicle",
+      "code": "LDRDRDU",
+      "cooldown": 480,
+      "unlock_level": 25,
+      "unlock_source": "Hangar",
+      "icon": "icons/m_102_gunner_frv.svg",
+      "icon_source": "/images/Fast_Recon_Vehicle_Stratagem_Icon_Background.svg?d9bba1",
+      "aliases": [
+        "frv",
+        "gunner fahrzeug",
+        "gunner frv",
+        "m-102 gunner frv"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Fahrzeug",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "m_103_supply_frv",
+      "name": "M-103 Supply FRV",
+      "category": "vehicle",
+      "code": "LDLLDUR",
+      "cooldown": 480,
+      "unlock_level": 1,
+      "unlock_source": "Hanger",
+      "icon": "icons/m_103_supply_frv.svg",
+      "icon_source": "/images/Supply_FRV_Stratagem_Icon_Background.svg?415445",
+      "aliases": [
+        "m-103 nachschub frv",
+        "m-103 supply frv",
+        "supply frv"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Fahrzeug",
+        "Versorgung"
+      ]
+    },
+    {
+      "id": "m_104_incinerator_frv",
+      "name": "M-104 Incinerator FRV",
+      "category": "vehicle",
+      "code": "LDRLDUU",
+      "cooldown": 480,
+      "unlock_level": null,
+      "unlock_source": "N/A",
+      "icon": "icons/m_104_incinerator_frv.svg",
+      "icon_source": "/images/Incinerator_FRV_Stratagem_Icon_Background.svg?f5764f",
+      "aliases": [
+        "incinerator frv",
+        "m-104 incinerator frv"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Fahrzeug",
+        "Feuer"
+      ]
+    },
+    {
+      "id": "m_105_stalwart",
+      "name": "M-105 Stalwart",
+      "category": "vehicle",
+      "code": "DLDUUL",
+      "cooldown": 480,
+      "unlock_level": 1,
+      "unlock_source": "Patriotic Administration Center",
+      "icon": "icons/m_105_stalwart.svg",
+      "icon_source": "/images/Stalwart_Stratagem_Icon_Background.svg?89f988",
+      "aliases": [
+        "m-105 stalwart",
+        "stalwart"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Fahrzeug",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "td_110_maelstrom",
+      "name": "TD-110 Maelstrom",
+      "category": "vehicle",
+      "code": "LDRDLDULR",
+      "cooldown": 780,
+      "unlock_level": null,
+      "unlock_source": "Armored Eagle",
+      "icon": "icons/td_110_maelstrom.svg",
+      "icon_source": "/images/Maelstrom_Stratagem_Icon_Background.svg?23094c",
+      "aliases": [
+        "maelstrom",
+        "td-110 maelstrom"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Fahrzeug",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "td_220_bastion_mk_xvi",
+      "name": "TD-220 Bastion MK XVI",
+      "category": "vehicle",
+      "code": "LDRDLDUDU",
+      "cooldown": 780,
+      "unlock_level": 30,
+      "unlock_source": "Hangar",
+      "icon": "icons/td_220_bastion_mk_xvi.svg",
+      "icon_source": "/images/Bastion_MK_XVI_Stratagem_Icon_Background.svg?9de952",
+      "aliases": [
+        "bastion mk xvi",
+        "td-220 bastion mk xvi"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Fahrzeug",
+        "Automatik"
+      ]
+    },
+    {
+      "id": "a_ac_8_autocannon_sentry",
+      "name": "A/AC-8 Autocannon Sentry",
+      "category": "sentry",
+      "code": "DURULU",
+      "cooldown": 150,
+      "unlock_level": 13,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_ac_8_autocannon_sentry.svg",
+      "icon_source": "/images/Autocannon_Sentry_Stratagem_Icon_Background.svg?428b69",
+      "aliases": [
+        "a/ac-8 autocannon sentry",
+        "a/ac-8 autokanone geschütz",
+        "autocannon sentry",
+        "autokanone geschütz"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "a_arc_3_tesla_tower",
+      "name": "A/ARC-3 Tesla Tower",
+      "category": "sentry",
+      "code": "DURULR",
+      "cooldown": 120,
+      "unlock_level": 15,
+      "unlock_source": "Bridge",
+      "icon": "icons/a_arc_3_tesla_tower.svg",
+      "icon_source": "/images/Tesla_Tower_Stratagem_Icon_Background.svg?a40a2e",
+      "aliases": [
+        "a/arc-3 tesla tower",
+        "a/arc-3 tesla turm",
+        "tesla",
+        "tesla tower",
+        "tesla turm"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Elektro"
+      ]
+    },
+    {
+      "id": "a_flam_40_flame_sentry",
+      "name": "A/FLAM-40 Flame Sentry",
+      "category": "sentry",
+      "code": "DURDUU",
+      "cooldown": 100,
+      "unlock_level": null,
+      "unlock_source": "Urban Legends P2",
+      "icon": "icons/a_flam_40_flame_sentry.svg",
+      "icon_source": "/images/Flame_Sentry_Stratagem_Icon_Background.svg?9214db",
+      "aliases": [
+        "a/flam-40 flame geschütz",
+        "a/flam-40 flame sentry",
+        "flame sentry"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Feuer"
+      ]
+    },
+    {
+      "id": "a_g_16_gatling_sentry",
+      "name": "A/G-16 Gatling Sentry",
+      "category": "sentry",
+      "code": "DURL",
+      "cooldown": 150,
+      "unlock_level": 5,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_g_16_gatling_sentry.svg",
+      "icon_source": "/images/Gatling_Sentry_Stratagem_Icon_Background.svg?7ee8f3",
+      "aliases": [
+        "a/g-16 gatling geschütz",
+        "a/g-16 gatling sentry",
+        "gatling geschütz",
+        "gatling sentry"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "a_gm_17_gas_mortar_sentry",
+      "name": "A/GM-17 Gas Mortar Sentry",
+      "category": "sentry",
+      "code": "DURDL",
+      "cooldown": 180,
+      "unlock_level": null,
+      "unlock_source": "Entrenched Division P2",
+      "icon": "icons/a_gm_17_gas_mortar_sentry.svg",
+      "icon_source": "/images/Gas_Mortar_Sentry_Stratagem_Icon_Background.svg?8948b9",
+      "aliases": [
+        "a/gm-17 gas mortar sentry",
+        "a/gm-17 gas mörser geschütz",
+        "gas mortar sentry"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Gas",
+        "Indirekt"
+      ]
+    },
+    {
+      "id": "a_las_98_laser_sentry",
+      "name": "A/LAS-98 Laser Sentry",
+      "category": "sentry",
+      "code": "DURDUR",
+      "cooldown": 150,
+      "unlock_level": null,
+      "unlock_source": "Control Group P2",
+      "icon": "icons/a_las_98_laser_sentry.svg",
+      "icon_source": "/images/Laser_Sentry_Stratagem_Icon_Background.svg?90ea4a",
+      "aliases": [
+        "a/las-98 laser geschütz",
+        "a/las-98 laser sentry",
+        "laser sentry"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Laser"
+      ]
+    },
+    {
+      "id": "a_m_12_mortar_sentry",
+      "name": "A/M-12 Mortar Sentry",
+      "category": "sentry",
+      "code": "DURRD",
+      "cooldown": 180,
+      "unlock_level": 8,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_m_12_mortar_sentry.svg",
+      "icon_source": "/images/Mortar_Sentry_Stratagem_Icon_Background.svg?30dea2",
+      "aliases": [
+        "a/m-12 mortar sentry",
+        "a/m-12 mörser geschütz",
+        "mortar sentry",
+        "mörser",
+        "mörsergeschütz"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv",
+        "Indirekt"
+      ]
+    },
+    {
+      "id": "a_m_23_ems_mortar_sentry",
+      "name": "A/M-23 EMS Mortar Sentry",
+      "category": "sentry",
+      "code": "DURDR",
+      "cooldown": 180,
+      "unlock_level": 20,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_m_23_ems_mortar_sentry.svg",
+      "icon_source": "/images/EMS_Mortar_Sentry_Stratagem_Icon_Background.svg?202fdc",
+      "aliases": [
+        "a/m-23 ems mortar sentry",
+        "a/m-23 ems mörser geschütz",
+        "ems mortar sentry"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "EMP",
+        "Indirekt"
+      ]
+    },
+    {
+      "id": "a_mg_43_machine_gun_sentry",
+      "name": "A/MG-43 Machine Gun Sentry",
+      "category": "sentry",
+      "code": "DURRU",
+      "cooldown": 90,
+      "unlock_level": 1,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_mg_43_machine_gun_sentry.svg",
+      "icon_source": "/images/Machine_Gun_Sentry_Stratagem_Icon_Background.svg?331c9d",
+      "aliases": [
+        "a/mg-43 machine gun sentry",
+        "a/mg-43 maschinen gewehr geschütz",
+        "machine gun sentry",
+        "maschinengewehr geschütz",
+        "mg geschütz"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "a_mls_4x_rocket_sentry",
+      "name": "A/MLS-4X Rocket Sentry",
+      "category": "sentry",
+      "code": "DURRL",
+      "cooldown": 150,
+      "unlock_level": 15,
+      "unlock_source": "Robotics Workshop",
+      "icon": "icons/a_mls_4x_rocket_sentry.svg",
+      "icon_source": "/images/Rocket_Sentry_Stratagem_Icon_Background.svg?1af08c",
+      "aliases": [
+        "a/mls-4x rakete geschütz",
+        "a/mls-4x rocket sentry",
+        "raketengeschütz"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 5,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "md_17_anti_tank_mines",
+      "name": "MD-17 Anti-Tank Mines",
+      "category": "mine",
+      "code": "DLUU",
+      "cooldown": 120,
+      "unlock_level": 15,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/md_17_anti_tank_mines.svg",
+      "icon_source": "/images/Anti-Tank_Mines_Stratagem_Icon_Background.svg?4573f2",
+      "aliases": [
+        "anti-tank mines",
+        "md-17 anti-tank minen",
+        "md-17 anti-tank mines",
+        "panzerabwehrminen",
+        "panzerminen"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 6,
+      "traits": [
+        "Explosiv",
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "md_6_anti_personnel_minefield",
+      "name": "MD-6 Anti-Personnel Minefield",
+      "category": "mine",
+      "code": "DLUR",
+      "cooldown": 120,
+      "unlock_level": 1,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/md_6_anti_personnel_minefield.svg",
+      "icon_source": "/images/Anti-Personnel_Minefield_Stratagem_Icon_Background.svg?ac79b4",
+      "aliases": [
+        "anti-personnel minefield",
+        "antipersonenminen",
+        "md-6 anti-personnel minefield",
+        "md-6 anti-personnel minenfeld",
+        "minenfeld"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 2,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "md_8_gas_mines",
+      "name": "MD-8 Gas Mines",
+      "category": "mine",
+      "code": "DLLR",
+      "cooldown": 120,
+      "unlock_level": 20,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/md_8_gas_mines.svg",
+      "icon_source": "/images/Gas_Mines_Stratagem_Icon_Background.svg?b10ef8",
+      "aliases": [
+        "gas mines",
+        "md-8 gas minen",
+        "md-8 gas mines"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Gas"
+      ]
+    },
+    {
+      "id": "md_i4_incendiary_mines",
+      "name": "MD-I4 Incendiary Mines",
+      "category": "mine",
+      "code": "DLLD",
+      "cooldown": 120,
+      "unlock_level": 8,
+      "unlock_source": "Engineering Bay",
+      "icon": "icons/md_i4_incendiary_mines.svg",
+      "icon_source": "/images/Incendiary_Mines_Stratagem_Icon_Background.svg?6c612f",
+      "aliases": [
+        "incendiary mines",
+        "md-i4 incendiary minen",
+        "md-i4 incendiary mines"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 3,
+      "traits": [
+        "Napalm"
+      ]
+    },
+    {
+      "id": "e_at_12_anti_tank_emplacement",
+      "name": "E/AT-12 Anti-Tank Emplacement",
+      "category": "emplacement",
+      "code": "DULRRR",
+      "cooldown": 180,
+      "unlock_level": null,
+      "unlock_source": "Urban Legends P3",
+      "icon": "icons/e_at_12_anti_tank_emplacement.svg",
+      "icon_source": "/images/Anti-Tank_Emplacement_Stratagem_Icon_Background.svg?d8adfc",
+      "aliases": [
+        "anti-tank emplacement",
+        "e/at-12 anti-tank emplacement",
+        "e/at-12 anti-tank stellung",
+        "panzerabwehrstellung"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 7,
+      "traits": [
+        "Panzerbrechend"
+      ]
+    },
+    {
+      "id": "e_gl_21_grenadier_battlement",
+      "name": "E/GL-21 Grenadier Battlement",
+      "category": "emplacement",
+      "code": "DRDLR",
+      "cooldown": 120,
+      "unlock_level": 15,
+      "unlock_source": "Bridge",
+      "icon": "icons/e_gl_21_grenadier_battlement.svg",
+      "icon_source": "/images/Grenadier_Battlement_Stratagem_Icon_Background.svg?80ed1c",
+      "aliases": [
+        "e/gl-21 grenadier battlement",
+        "grenadier battlement"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Explosiv"
+      ]
+    },
+    {
+      "id": "e_mg_101_hmg_emplacement",
+      "name": "E/MG-101 HMG Emplacement",
+      "category": "emplacement",
+      "code": "DULRRL",
+      "cooldown": 180,
+      "unlock_level": 10,
+      "unlock_source": "Bridge",
+      "icon": "icons/e_mg_101_hmg_emplacement.svg",
+      "icon_source": "/images/HMG_Emplacement_Stratagem_Icon_Background.svg?204f0f",
+      "aliases": [
+        "e/mg-101 hmg emplacement",
+        "e/mg-101 hmg stellung",
+        "hmg emplacement",
+        "hmg stellung",
+        "schwere mg stellung"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 4,
+      "traits": [
+        "Automatik"
+      ]
+    },
+    {
+      "id": "fx_12_shield_generator_relay",
+      "name": "FX-12 Shield Generator Relay",
+      "category": "emplacement",
+      "code": "DDLRLR",
+      "cooldown": 90,
+      "unlock_level": 10,
+      "unlock_source": "Bridge",
+      "icon": "icons/fx_12_shield_generator_relay.svg",
+      "icon_source": "/images/Shield_Generator_Relay_Stratagem_Icon_Background.svg?8f5149",
+      "aliases": [
+        "fx-12 schild generator relais",
+        "fx-12 shield generator relay",
+        "shield generator relay"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Schild"
+      ]
+    },
+    {
+      "id": "activate_e_711_extraction_drill",
+      "name": "Activate E-711 Extraction Drill",
+      "category": "mission",
+      "code": "DDLLDD",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/activate_e_711_extraction_drill.svg",
+      "icon_source": "/images/Drill_Stratagem_Icon_Background.svg?4379f7",
+      "aliases": [
+        "activate e-711 extraction drill",
+        "aktivieren e-711 extraktion bohrer"
+      ],
+      "uses": null
+    },
+    {
+      "id": "aquifer_drill",
+      "name": "Aquifer Drill",
+      "category": "mission",
+      "code": "LLLUDRDD",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/aquifer_drill.svg",
+      "icon_source": "/images/Drill_Stratagem_Icon_Background.svg?4379f7",
+      "aliases": [
+        "aquifer drill",
+        "grundwasser bohrer"
+      ],
+      "uses": null
+    },
+    {
+      "id": "cargo_container",
+      "name": "Cargo Container",
+      "category": "mission",
+      "code": "UUDDRD",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/cargo_container.svg",
+      "icon_source": "/images/Cargo_Container_Stratagem_Icon_Background.svg?60d35b",
+      "aliases": [
+        "cargo container"
+      ],
+      "uses": null
+    },
+    {
+      "id": "dark_fluid_vessel",
+      "name": "Dark Fluid Vessel",
+      "category": "mission",
+      "code": "ULRDUU",
+      "cooldown": 30,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/dark_fluid_vessel.svg",
+      "icon_source": "/images/Dark_Fluid_Vessel_Stratagem_Icon_Background.svg?ce7771",
+      "aliases": [
+        "dark fluid vessel",
+        "dunkel flüssigkeit vessel"
+      ],
+      "uses": null
+    },
+    {
+      "id": "eagle_rearm",
+      "name": "Eagle Rearm",
+      "category": "mission",
+      "code": "UULUR",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/eagle_rearm.svg",
+      "icon_source": "/images/Eagle_Rearm_Stratagem_Icon_Background.svg?ddcd30",
+      "aliases": [
+        "adler aufmunitionieren",
+        "aufmunitionieren",
+        "eagle rearm",
+        "rearm"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Eagle"
+      ]
+    },
+    {
+      "id": "hive_breaker_drill",
+      "name": "Hive Breaker Drill",
+      "category": "mission",
+      "code": "LUDRDD",
+      "cooldown": 119,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/hive_breaker_drill.svg",
+      "icon_source": "/images/Drill_Stratagem_Icon_Background.svg?4379f7",
+      "aliases": [
+        "hive breaker drill",
+        "nest breaker bohrer"
+      ],
+      "uses": null
+    },
+    {
+      "id": "nux_223_hellbomb",
+      "name": "NUX-223 Hellbomb",
+      "category": "mission",
+      "code": "DULDURDU",
+      "cooldown": 30,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/nux_223_hellbomb.svg",
+      "icon_source": "/images/Hellbomb_Stratagem_Icon_Background.svg?4be6bb",
+      "aliases": [
+        "hellbomb",
+        "höllenbombe",
+        "nux-223 hellbomb",
+        "nux-223 höllenbombe"
+      ],
+      "uses": null
+    },
+    {
+      "id": "portable_comms_relay",
+      "name": "Portable Comms Relay",
+      "category": "mission",
+      "code": "UUDDLLD",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/portable_comms_relay.svg",
+      "icon_source": "/images/Cargo_Container_Stratagem_Icon_Background.svg?60d35b",
+      "aliases": [
+        "portable comms relais",
+        "portable comms relay"
+      ],
+      "uses": null
+    },
+    {
+      "id": "prospecting_drill",
+      "name": "Prospecting Drill",
+      "category": "mission",
+      "code": "DDLRDD",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/prospecting_drill.svg",
+      "icon_source": "/images/Drill_Stratagem_Icon_Background.svg?4379f7",
+      "aliases": [
+        "prospecting bohrer",
+        "prospecting drill"
+      ],
+      "uses": null
+    },
+    {
+      "id": "reinforce",
+      "name": "Reinforce",
+      "category": "mission",
+      "code": "UDRLU",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/reinforce.svg",
+      "icon_source": "/images/Reinforce_Stratagem_Icon_Background.svg?c9d622",
+      "aliases": [
+        "reinforce",
+        "verstärkung",
+        "verstärkung rufen"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Verstärkung"
+      ]
+    },
+    {
+      "id": "reinforcement_pods",
+      "name": "Reinforcement Pods",
+      "category": "mission",
+      "code": "LRUUU",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/reinforcement_pods.svg",
+      "icon_source": "/images/Upload_Data_Stratagem_Icon_Background.svg?a4a565",
+      "aliases": [
+        "reinforcement pods",
+        "reinforcement raketen"
+      ],
+      "uses": null
+    },
+    {
+      "id": "resupply",
+      "name": "Resupply",
+      "category": "mission",
+      "code": "DDUR",
+      "cooldown": 180,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/resupply.svg",
+      "icon_source": "/images/Resupply_Stratagem_Icon_Background.svg?e011d4",
+      "aliases": [
+        "nachschub",
+        "resupply",
+        "versorgung"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Versorgung"
+      ]
+    },
+    {
+      "id": "seaf_artillery",
+      "name": "SEAF Artillery",
+      "category": "mission",
+      "code": "RUUD",
+      "cooldown": 14,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/seaf_artillery.svg",
+      "icon_source": "/images/SEAF_Artillery_Stratagem_Icon_Background.svg?f72d95",
+      "aliases": [
+        "artillerie",
+        "seaf artillerie",
+        "seaf artillery"
+      ],
+      "uses": null
+    },
+    {
+      "id": "sssd_delivery",
+      "name": "SSSD Delivery",
+      "category": "mission",
+      "code": "DDDDDUU",
+      "cooldown": 8,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/sssd_delivery.svg",
+      "icon_source": "/images/Upload_Data_Stratagem_Icon_Background.svg?a4a565",
+      "aliases": [
+        "sssd delivery"
+      ],
+      "alt_codes": [
+        "DDDUU"
+      ],
+      "uses": null
+    },
+    {
+      "id": "seismic_probe",
+      "name": "Seismic Probe",
+      "category": "mission",
+      "code": "UULRDD",
+      "cooldown": 27,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/seismic_probe.svg",
+      "icon_source": "/images/Seismic_Probe_Stratagem_Icon_Background.svg?9631fa",
+      "aliases": [
+        "seismic probe",
+        "seismisch sonde"
+      ],
+      "uses": null
+    },
+    {
+      "id": "sos_beacon",
+      "name": "SoS Beacon",
+      "category": "mission",
+      "code": "UDRU",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/sos_beacon.svg",
+      "icon_source": "/images/SOS_Beacon_Stratagem_Icon_Background.svg?390b65",
+      "aliases": [
+        "notsignal",
+        "sos",
+        "sos bake",
+        "sos beacon",
+        "sos signal"
+      ],
+      "uses": null,
+      "radius": null,
+      "ap": 0,
+      "traits": [
+        "Verstärkung"
+      ]
+    },
+    {
+      "id": "super_earth_flag",
+      "name": "Super Earth Flag",
+      "category": "mission",
+      "code": "DUDU",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/super_earth_flag.svg",
+      "icon_source": "/images/Super_Earth_Flag_Stratagem_Icon_Background.svg?cb3975",
+      "aliases": [
+        "super earth flag",
+        "super erde flagge"
+      ],
+      "uses": null
+    },
+    {
+      "id": "tactical_video_camera",
+      "name": "Tactical Video Camera",
+      "category": "mission",
+      "code": "RDDULLU",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/tactical_video_camera.svg",
+      "icon_source": "/images/Tactical_Video_Camera_Stratagem_Icon_Background.svg?5dd24d",
+      "aliases": [
+        "tactical video camera"
+      ],
+      "uses": null
+    },
+    {
+      "id": "tectonic_drill",
+      "name": "Tectonic Drill",
+      "category": "mission",
+      "code": "UDUDUD",
+      "cooldown": 0,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/tectonic_drill.svg",
+      "icon_source": "/images/Drill_Stratagem_Icon_Background.svg?4379f7",
+      "aliases": [
+        "tectonic drill",
+        "tektonisch bohrer"
+      ],
+      "uses": null
+    },
+    {
+      "id": "upload_data",
+      "name": "Upload Data",
+      "category": "mission",
+      "code": "LRUUU",
+      "cooldown": null,
+      "unlock_level": null,
+      "unlock_source": "",
+      "icon": "icons/upload_data.svg",
+      "icon_source": "/images/Upload_Data_Stratagem_Icon_Background.svg?a4a565",
+      "aliases": [
+        "hochladen daten",
+        "upload data"
+      ],
+      "uses": null
+    }
+  ]
+}
